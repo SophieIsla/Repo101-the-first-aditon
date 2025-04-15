@@ -1,2 +1,2 @@
-# Repo101-the-first-aditon
+# Repo101-the-first-addition
 Repository!
